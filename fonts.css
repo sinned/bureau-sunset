@@ -1,0 +1,24 @@
+/* Arnhem Display Bold */
+@font-face {
+  font-family: 'Arnhem';
+  src: url('http://media.bureauoftrade.com/fonts/arnhem-display-bold-webfont.eot');
+  src: url('http://media.bureauoftrade.com/fonts/arnhem-display-bold-webfont.eot?#iefix') format('embedded-opentype'), url('http://media.bureauoftrade.com/fonts/arnhem-display-bold-webfont.woff') format('woff'), url('http://media.bureauoftrade.com/fonts/arnhem-display-bold-webfont.ttf') format('truetype'), url('http://media.bureauoftrade.com/fonts/arnhem-display-bold-webfont.svg#arnhem_display_bdbold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+/* Bell Italic */
+@font-face {
+  font-family: 'Bell';
+  src: url('http://media.bureauoftrade.com/fonts/bell-ita-webfont.eot');
+  src: url('http://media.bureauoftrade.com/fonts/bell-ita-webfont.eot?#iefix') format('embedded-opentype'), url('http://media.bureauoftrade.com/fonts/bell-ita-webfont.woff') format('woff'), url('http://media.bureauoftrade.com/fonts/bell-ita-webfont.ttf') format('truetype'), url('http://media.bureauoftrade.com/fonts/bell-ita-webfont.svg#bellitalic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+/* Bell Medium Regular */
+@font-face {
+  font-family: 'Bell';
+  src: url('http://media.bureauoftrade.com/fonts/bell-med-webfont.eot');
+  src: url('http://media.bureauoftrade.com/fonts/bell-med-webfont.eot?#iefix') format('embedded-opentype'), url('http://media.bureauoftrade.com/fonts/bell-med-webfont.woff') format('woff'), url('http://media.bureauoftrade.com/fonts/bell-med-webfont.ttf') format('truetype'), url('http://media.bureauoftrade.com/fonts/bell-med-webfont.svg#bellmedregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
