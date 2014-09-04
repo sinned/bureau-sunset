@@ -103,7 +103,7 @@
 
   <div data-1700p="transform:translate(0,100%);" data-1800p="transform:translate(0,0%)">
     <div class="contentblock centervert">
-      <h2>BUREAU OF TRADE</h2>
+      <img style="margin-top: 250px;" src="img/bureau-of-trade-logo-200x200.png" alt="Bureau of Trade" />
     </div>
   </div>  
 
