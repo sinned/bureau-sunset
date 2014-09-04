@@ -85,14 +85,14 @@
     </div>
   </div>
 
-  <div data-1300p="transform:translate(0,100%);" data-1400p="transform:translate(0,0%)" data-_box-1400p="" data-_box-1500p="transform:translate(0,-100%)">
+  <div data-1400p="transform:translate(0,100%);" data-1500p="transform:translate(0,0%)" data-_box-1500p="" data-_box-1600p="transform:translate(0,-100%)">
     <div class="contentblock centervert">
       <div>To our team of mercenaries, yeomen, and artists <br /> who toiled in the trenches with us</div>
-      <div style="margin-top:40px;" data-1460p="opacity:0;font-size:1px;" data-1500p="opacity:1;font-size:60px;"><h2>Community Matters.</h2></div>
+      <div style="margin-top:40px;" data-1560p="opacity:0;font-size:1px;" data-1600p="opacity:1;font-size:60px;"><h2>Community Matters.</h2></div>
     </div>
   </div>     
 
-  <div data-1500p="transform:translate(0,100%);" data-1600p="transform:translate(0,0%)" data-_box-1600p="" data-_box-1700p="transform:translate(0,-100%)">
+  <div data-1600p="transform:translate(0,100%);" data-1700p="transform:translate(0,0%)" data-_box-1700p="" data-_box-1800p="transform:translate(0,-100%)">
     <div class="contentblock centervert">
       <h2>With</h2>
       <h2>gratitude,</h2>
@@ -101,9 +101,9 @@
     </div>
   </div>
 
-  <div data-1700p="transform:translate(0,100%);" data-1800p="transform:translate(0,0%)">
+  <div data-1800p="transform:translate(0,100%);" data-1900p="transform:translate(0,0%)">
     <div class="contentblock centervert">
-      <img style="margin-top: 250px;" src="img/bureau-of-trade-logo-200x200.png" alt="Bureau of Trade" />
+      <div><img style="margin-top: 150px;" src="img/bureau-of-trade-logo-200x200.png" alt="Bureau of Trade" /></div>
     </div>
   </div>  
 
