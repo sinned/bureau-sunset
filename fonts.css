@@ -1,3 +1,35 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2878245, 2014-09-05T15:58:26-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Geometric 212 Book by Bitstream
+ * URL: http://www.myfonts.com/fonts/bitstream/geometric-212/book/
+ * 
+ * Webfont: Geometric 706 Black Condensed by Bitstream
+ * URL: http://www.myfonts.com/fonts/bitstream/geometric-706/black-condensed/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2878245
+ * Licensed pageviews: 100,000
+ * Webfonts copyright: Copyright 1990-2003 Bitstream Inc. All rights reserved.
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2beb25");
+
+@font-face {font-family: 'Geometric212BT-Book';src: url('http://media.bureauoftrade.com/fonts/2BEB25_0_0.eot');src: url('http://media.bureauoftrade.com/fonts/2BEB25_0_0.eot?#iefix') format('embedded-opentype'),url('http://media.bureauoftrade.com/fonts/2BEB25_0_0.woff') format('woff'),url('http://media.bureauoftrade.com/fonts/2BEB25_0_0.ttf') format('truetype');}
+@font-face {font-family: 'Geometric706BT-BlackCondensedB';src: url('http://media.bureauoftrade.com/fonts/2BEB25_1_0.eot');src: url('http://media.bureauoftrade.com/fonts/2BEB25_1_0.eot?#iefix') format('embedded-opentype'),url('http://media.bureauoftrade.com/fonts/2BEB25_1_0.woff') format('woff'),url('http://media.bureauoftrade.com/fonts/2BEB25_1_0.ttf') format('truetype');}
+ 
+
 /* Arnhem Display Bold */
 @font-face {
   font-family: 'Arnhem';

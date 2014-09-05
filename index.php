@@ -33,7 +33,7 @@
 <body>
   <div id="briefcase" data-0="transform:translate(0,0%);" data-100p="transform:translate(0,-100%);">
     <div id="nostalgic-overlay" data-0="opacity:1;" data-100p="opacity:0;" >
-      <span id="nostalgic-text"><h2>Be Nostalgic</h2><br /><h2>For the Future</h2></span>
+      <span id="nostalgic-text"><h1>Be Nostalgic</h1><br /><h1>For the Future</h1></span>
     </div>
   </div>
 
@@ -49,7 +49,7 @@
     <div class="contentblock centervert" data-390p="opacity:1;" data-400p="opacity:0;">
       <img src="img/clock.gif" alt="Bureau Clock" />
       <div>To each of you that ever spent a fleeting moment with us.</div>
-      <div style="margin-top:20px;" data-340p="opacity:0;font-size:30px;" data-370p="opacity:1;font-size:40px;"><h2>Moments Matter.</h2></div>
+      <div style="margin-top:20px;" data-340p="opacity:0;font-size:30px;" data-370p="opacity:1;font-size:40px;"><h3>Moments Matter.</h3></div>
     </div>
   </div>  
 
@@ -57,7 +57,7 @@
     <div class="contentblock centervert" data-590p="opacity:1;" data-600p="opacity:0;">
       <img src="img/star.png" alt="Bureau Star" style="width:400px" />
       <div>To each of you that made mention of our <br /> tiny little flickering light in the night.</div>
-      <div style="margin-top:20px;" data-540p="opacity:0;font-size:30px;" data-570p="opacity:1;font-size:40px;"><h2>Mentions Matter.</h2></div>
+      <div style="margin-top:20px;" data-540p="opacity:0;font-size:30px;" data-570p="opacity:1;font-size:40px;"><h3>Mentions Matter.</h3></div>
     </div>
   </div>    
 
@@ -65,7 +65,7 @@
     <div id="suitablenotsuitable" class="contentblock" data-790p="opacity:1;" data-800p="opacity:0;">
       <img src="img/suitable-notsuitable.png" alt="Bureau S/NS" style="width:80%;margin-top:10%;" />
       <div>To each of you that ever smirked, cackled, or laughed <br/> at our sophomoric ranklings</div>
-      <div style="margin-top:20px;" data-740p="opacity:0;font-size:30px;" data-770p="opacity:1;font-size:40px;"><h2>Laughter Matters.</h2></div>
+      <div style="margin-top:20px;" data-740p="opacity:0;font-size:30px;" data-770p="opacity:1;font-size:40px;"><h3>Laughter Matters.</h3></div>
     </div>
   </div>      
 
@@ -75,7 +75,7 @@
       <div style="margin: 0 auto 20px;background:url('http://media.bureauoftrade.com/img/category-icons@2x.png') top left; width: 700px; height: 70px; background-position: -800px 0;"></div>      
       <br />
       <div>To each of you that voted with your feet and made a <br />purchase &mdash; not a thing to buy, but a good to cherish</div>
-      <div style="margin-top:20px;" data-940p="opacity:0;font-size:30px;" data-970p="opacity:1;font-size:40px;"><h2>Goods Matter.</h2></div>
+      <div style="margin-top:20px;" data-940p="opacity:0;font-size:30px;" data-970p="opacity:1;font-size:40px;"><h3>Goods Matter.</h3></div>
     </div>
   </div>       
 
