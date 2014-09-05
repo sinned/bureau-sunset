@@ -31,14 +31,14 @@
 </head>
 
 <body>
-  <div id="firstblock" data-0="transform:translate(0,0%);" data-100p="transform:translate(0,-100%);">
+  <div id="briefcase" data-0="transform:translate(0,0%);" data-100p="transform:translate(0,-100%);">
     <div id="nostalgic-overlay" data-0="opacity:1;" data-100p="opacity:0;" >
       <span id="nostalgic-text"><h2>Be Nostalgic</h2><br /><h2>For the Future</h2></span>
     </div>
   </div>
 
   <div data-0="transform:translate(0,100%);" data-100p="transform:translate(0,0%)" data-_box-100p="" data-_box-200p="transform:translate(0,-100%)">
-    <div id="secondblock">
+    <div class="contentblock centervert">
       <div style="position:absolute;margin-top:-2000px;margin-left:-50px;width:100%;text-align:center;" data-130p="margin-top:-2000px;" data-150p="margin-top:0px;" data-190p="margin-top:0px;opacity:1;" data-500p="margin-top:-2000px;opacity:0;"><h2>Thank <br /> You.</h2></div>
       <div style="float:left;margin:30px 50px 0 0;" data-100p="opacity:0;" data-110p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">It's our time to go. <br />Nothing to miss.</div>
       <div style="float:right;text-align:right;margin: 30px 0 0 0;" data-110p="opacity:0;" data-120p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">Nothing to mourn. <br /> Only this to say:</div>
@@ -46,8 +46,8 @@
   </div>
 
   <div data-200p="transform:translate(0,100%);" data-300p="transform:translate(0,0%)" data-_box-300p="" data-_box-400p="transform:translate(0,-100%)">
-    <div id="thirdblock" data-390p="opacity:1;" data-400p="opacity:0;">
-      <img src="img/clock.gif" alt="Bureau Clock"/>
+    <div class="contentblock centervert" data-390p="opacity:1;" data-400p="opacity:0;">
+      <img src="img/clock.gif" alt="Bureau Clock" />
       <div>To each of you that ever spent a fleeting moment with us.</div>
       <div style="margin-top:20px;" data-340p="opacity:0;font-size:30px;" data-370p="opacity:1;font-size:40px;"><h2>Moments Matter.</h2></div>
     </div>
@@ -62,8 +62,8 @@
   </div>    
 
   <div data-600p="transform:translate(0,100%);" data-700p="transform:translate(0,0%)" data-_box-700p="" data-_box-800p="transform:translate(0,-100%)">
-    <div class="contentblock centervert" data-790p="opacity:1;" data-800p="opacity:0;">
-      <img src="img/suitable-notsuitable.png" alt="Bureau S/NS" style="width:400px" />
+    <div id="suitablenotsuitable" class="contentblock" data-790p="opacity:1;" data-800p="opacity:0;">
+      <img src="img/suitable-notsuitable.png" alt="Bureau S/NS" style="width:80%;margin-top:10%;" />
       <div>To each of you that ever smirked, cackled, or laughed <br/> at our sophomoric ranklings</div>
       <div style="margin-top:20px;" data-740p="opacity:0;font-size:30px;" data-770p="opacity:1;font-size:40px;"><h2>Laughter Matters.</h2></div>
     </div>
@@ -80,8 +80,11 @@
   </div>       
 
   <div data-900p="transform:translate(0,100%);" data-1000p="transform:translate(0,0%)" data-_box-1200p="" data-_box-1300p="transform:translate(0,-100%)">
-    <div class="contentblock" data-1000p="width:0%;" data-_box-1100p="width:100%;" style="padding:0;position:absolute;left:0px;height:100%;background:#09f;">
-      <h2 style="margin-top:350px;" data-1250p="opacity:0;" data-1300p="opacity:1;">Belief Matters.</h2>
+    <div id="shibori" class="contentblock" data-1000p="width:0%;" data-_box-1100p="width:100%;">
+      <div class="centervert" data-1070p="opacity:0;" data-_box-1100p="opacity:1;">
+        To each of our advisors and investors that turned <br />a feverish dream into a life-altering reality
+        <h2 style="margin-top:150px;" data-1250p="opacity:0;" data-1300p="opacity:1;">Belief Matters.</h2>
+      </div>
     </div>
   </div>
 

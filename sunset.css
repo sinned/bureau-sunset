@@ -30,7 +30,7 @@ p { margin: 0; padding: 0; }
   background:#09f;
 }
 
-#firstblock {
+#briefcase {
   background: #ffffff;
   background-image: url('img/bureau-briefcase-3.gif');
   background-size: cover;
@@ -71,29 +71,13 @@ p { margin: 0; padding: 0; }
 
 }
 
-#bagman {
-  z-index: 9;
-  background: #ffffff;
-  text-align: center;
-
-}
-
-#secondblock {
-  text-transform: uppercase;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size:20px;
-  font-weight: bold;
-  padding: 200px 60px;
-  text-align: center;  
-}
-
 .centervert {
   position: relative;
   top: 30%;
   transform: translateY(-50%);
 }
 
-.contentblock, #thirdblock {
+.contentblock {
   text-transform: uppercase;
   font-family: Helvetica, Arial, sans-serif;
   font-size:20px;
@@ -106,7 +90,28 @@ p { margin: 0; padding: 0; }
   margin-bottom: 20px;
 }
 
-.contentblock h2, #secondblock h2 {
+.contentblock h2 {
   text-align: center;
   font-size: 60px;
 }
+
+#suitablenotsuitable {
+  background: #f4f3f0;
+  position:absolute;
+  left:0px;
+  height:100%;
+  padding: 0;
+  width: 100%;  
+}
+
+#shibori {
+  background: #0d1d3b;
+  background-image: url('img/shibori-2.png');
+  background-size: cover;
+  padding:0;
+  position:absolute;
+  left:0px;
+  height:100%;
+  color: #ffffff;
+}
+
