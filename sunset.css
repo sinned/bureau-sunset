@@ -87,6 +87,10 @@ h3 {
 
 }
 
+#thankyou_center { position:absolute;margin-top:-2000px;margin-left:-50px;width:100%;text-align:center; }
+#thankyou_left {float:left;margin:30px 50px 0 0;}
+#thankyou_right {float:right;text-align:right;margin: 30px 0 0 0;}
+
 .centervert {
   position: relative;
   top: 30%;
@@ -94,7 +98,7 @@ h3 {
 }
 
 .contentblock {
-  min-width:200px;  
+  min-width:320px;  
   text-transform: uppercase;
   font-family: 'Geometric706BT-BlackCondensedB', Impact, Arial, sans-serif;
   font-size:20px;
@@ -136,3 +140,26 @@ h3 {
   color: #ffffff;
 }
 
+@media all and (min-width: 851px) {
+}
+
+@media all and (max-width: 850px) and (min-width: 481px) {
+  #thankyou_left {float:left; width:100%;text-align:center;break:both;}
+  #thankyou_center {position:relative; float;left; width:100%;margin: 0 0 0 0;}
+  #thankyou_right {float:left;text-align:center; width:100%;margin-bottom: 50px;}  
+  .contentblock h1 {
+    font-size: 65px;
+  }    
+}
+
+@media all and (max-width: 480px) {
+  #thankyou_left {float:left; width:100%;text-align:center;break:both;}
+  #thankyou_center {position:relative; float;left; width:100%;margin: 0 0 0 0;}
+  #thankyou_right {float:left;text-align:center; width:100%;margin-bottom: 50px;}  
+  .contentblock {
+    padding: 0 5px;
+  }
+  .contentblock h1 {
+    font-size: 45px;
+  }  
+}

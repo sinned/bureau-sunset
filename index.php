@@ -2,9 +2,6 @@
 <html>
 <head>
   <meta charset="utf-8">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
   <title>Bureau of Trade</title>
   <link rel="stylesheet" href="sunset.css" type="text/css">
   <link rel="stylesheet" href="fonts.css" type="text/css">
@@ -20,10 +17,10 @@
   </div>
 
   <div data-0="transform:translate(0,100%);" data-100p="transform:translate(0,0%)" data-_box-100p="" data-_box-200p="transform:translate(0,-100%)">
-    <div class="contentblock centervert">
-      <div style="position:absolute;margin-top:-2000px;margin-left:-50px;width:100%;text-align:center;" data-130p="margin-top:-2000px;" data-150p="margin-top:0px;" data-190p="margin-top:0px;opacity:1;" data-500p="margin-top:-2000px;opacity:0;"><h2>Thank <br /> You.</h2></div>
-      <div style="float:left;margin:30px 50px 0 0;" data-100p="opacity:0;" data-110p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">It's our time to go. <br />Nothing to miss.</div>
-      <div style="float:right;text-align:right;margin: 30px 0 0 0;" data-110p="opacity:0;" data-120p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">Nothing to mourn. <br /> Only this to say:</div>
+    <div id="thankyou" class="contentblock centervert">
+      <div id="thankyou_left" data-100p="opacity:0;" data-110p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">It's our time to go. <br />Nothing to miss.</div>
+      <div id="thankyou_right" data-110p="opacity:0;" data-120p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">Nothing to mourn. <br /> Only this to say:</div>
+      <div id="thankyou_center" data-130p="margin-top:-2000px;" data-150p="margin-top:0px;" data-190p="margin-top:0px;opacity:1;" data-500p="margin-top:-2000px;opacity:0;"><h2>Thank <br /> You.</h2></div>
     </div>
   </div>
 
@@ -57,7 +54,7 @@
       <div style="margin: 0 auto 20px;background:url('http://media.bureauoftrade.com/img/category-icons@2x.png') top left; width: 700px; height: 70px; background-position: -800px 0;"></div>      
       <br />
       <div>To each of you that voted with your feet and made a <br />purchase &mdash; not a thing to buy, but a good to cherish</div>
-      <div style="margin-top:20px;" data-940p="opacity:0;font-size:30px;" data-970p="opacity:1;font-size:40px;"><h3>Goods Matter.</h3></div>
+      <div style="margin-top:20px;" data-940p="opacity:0;font-size:30px;" data-970p="opacity:1;font-size:40px;" data-980p="opacity:1;" data-1000p="opacity:0;"><h3>Goods Matter.</h3></div>
     </div>
   </div>       
 
