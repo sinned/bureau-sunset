@@ -55,7 +55,7 @@ h3 {
 
 #briefcase {
   background: #ffffff;
-  background-image: url('img/bureau-briefcase-4.gif');
+  background-image: url('http://media.bureauoftrade.com/img/bureau-briefcase-4.gif');
   background-size: cover;
 }
 
@@ -128,7 +128,7 @@ h3 {
 
 #shibori {
   background: #0d1d3b;
-  background-image: url('img/shibori-2.png');
+  background-image: url('http://media.bureauoftrade.com/img/shibori-2.png');
   background-size: cover;
   padding:0;
   position:absolute;

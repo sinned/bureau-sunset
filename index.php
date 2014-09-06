@@ -27,7 +27,7 @@
 
   <div data-200p="transform:translate(0,100%);" data-300p="transform:translate(0,0%)" data-_box-300p="" data-_box-400p="transform:translate(0,-100%)">
     <div class="contentblock centervert" data-390p="opacity:1;" data-400p="opacity:0;">
-      <img src="img/clock.gif" alt="Bureau Clock" />
+      <img src="http://media.bureauoftrade.com/img/clock.gif" alt="Bureau Clock" />
       <div>To each of you that ever spent a fleeting moment with us.</div>
       <div style="margin-top:20px;" data-340p="opacity:0;font-size:30px;" data-370p="opacity:1;font-size:40px;"><h3>Moments Matter.</h3></div>
     </div>
@@ -35,7 +35,7 @@
 
   <div data-400p="transform:translate(0,100%);" data-500p="transform:translate(0,0%)" data-_box-500p="" data-_box-600p="transform:translate(0,-100%)">
     <div class="contentblock centervert" data-590p="opacity:1;" data-600p="opacity:0;">
-      <img src="img/star.png" alt="Bureau Star" style="width:400px" />
+      <img src="http://media.bureauoftrade.com/img/star.png" alt="Bureau Star" style="width:400px" />
       <div>To each of you that made mention of our <br /> tiny little flickering light in the night.</div>
       <div style="margin-top:20px;" data-540p="opacity:0;font-size:30px;" data-570p="opacity:1;font-size:40px;"><h3>Mentions Matter.</h3></div>
     </div>
@@ -43,7 +43,7 @@
 
   <div data-600p="transform:translate(0,100%);" data-700p="transform:translate(0,0%)" data-_box-700p="" data-_box-800p="transform:translate(0,-100%)">
     <div id="suitablenotsuitable" class="contentblock" data-790p="opacity:1;" data-800p="opacity:0;">
-      <img src="img/suitable-notsuitable.png" alt="Bureau S/NS" style="width:80%;margin-top:10%;" />
+      <img src="http://media.bureauoftrade.com/img/suitable-notsuitable.png" alt="Bureau S/NS" style="width:80%;margin-top:10%;" />
       <div>To each of you that ever smirked, cackled, or laughed <br/> at our sophomoric ranklings</div>
       <div style="margin-top:20px;" data-740p="opacity:0;font-size:30px;" data-770p="opacity:1;font-size:40px;"><h3>Laughter Matters.</h3></div>
     </div>
@@ -86,11 +86,11 @@
 
   <div data-2200p="transform:translate(0,100%);" data-2300p="transform:translate(0,0%)" style="height: 1600px;">
     <div class="contentblock centervert">
-      <div><img style="width:90%" src="img/bureau-shadow-logo.png" alt="Bureau of Trade" /></div>
+      <div><img style="width:90%" src="http://media.bureauoftrade.com/img/bureau-shadow-logo.png" alt="Bureau of Trade" /></div>
     </div>
   </div>  
 
-  <script type="text/javascript" src="js/skrollr.min.js"></script>
+  <script type="text/javascript" src="http://media.bureauoftrade.com/js/skrollr.min.js"></script>
 
   <script type="text/javascript">
   skrollr.init({
