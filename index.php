@@ -32,7 +32,7 @@
 
 <body>
   <div id="briefcase" data-0="transform:translate(0,0%);" data-100p="transform:translate(0,-100%);">
-    <div id="nostalgic-overlay" data-0="opacity:1;" data-100p="opacity:0;" >
+    <div id="nostalgic-overlay" class="contentblock" data-0="opacity:1;" data-100p="opacity:0;" >
       <span id="nostalgic-text"><h1>Be Nostalgic</h1><br /><h1>For the Future</h1></span>
     </div>
   </div>
@@ -80,10 +80,10 @@
   </div>       
 
   <div data-900p="transform:translate(0,100%);" data-1000p="transform:translate(0,0%)" data-_box-1200p="" data-_box-1300p="transform:translate(0,-100%)">
-    <div id="shibori" class="contentblock" data-1000p="width:0%;" data-_box-1100p="width:100%;">
+    <div id="shibori" class="contentblock" data-1000p="width:0%;" data-_box-1100p="width:100%;" style="min-width:0px">
       <div class="centervert" data-1070p="opacity:0;" data-_box-1100p="opacity:1;">
         To each of our advisors and investors that turned <br />a feverish dream into a life-altering reality
-        <h2 style="margin-top:150px;" data-1250p="opacity:0;" data-1300p="opacity:1;">Belief Matters.</h2>
+        <h3 style="margin-top:150px;" data-1250p="opacity:0;" data-1300p="opacity:1;">Belief Matters.</h3>
       </div>
     </div>
   </div>
@@ -91,22 +91,22 @@
   <div data-1400p="transform:translate(0,100%);" data-1500p="transform:translate(0,0%)" data-_box-1500p="" data-_box-1600p="transform:translate(0,-100%)">
     <div class="contentblock centervert">
       <div>To our team of mercenaries, yeomen, and artists <br /> who toiled in the trenches with us</div>
-      <div style="margin-top:40px;" data-1560p="opacity:0;font-size:1px;" data-1600p="opacity:1;font-size:60px;"><h2>Community Matters.</h2></div>
+      <div style="margin-top:40px;" data-1560p="opacity:0;font-size:1px;" data-1600p="opacity:1;font-size:60px;"><h3>Community Matters.</h3></div>
     </div>
   </div>     
 
-  <div data-1600p="transform:translate(0,100%);" data-1700p="transform:translate(0,0%)" data-_box-1700p="" data-_box-1800p="transform:translate(0,-100%)">
-    <div class="contentblock centervert">
-      <h2>With</h2>
-      <h2>gratitude,</h2>
-      <h2>humility,</h2>
-      <h2>and love.</h2>
+  <div data-1600p="transform:translate(0,100%);" data-1700p="transform:translate(0,0%)" data-_box-2100p="" data-_box-2200p="transform:translate(0,-100%)">
+    <div class="contentblock centervert" data-2200p="opacity:1;" data-2300p="opacity:0;">
+      <h1 style="margin-top: 50px;" data-1700p="margin-right:-10000px;" data-1750p="margin-right:0px;" >With</h1>
+      <h1 data-1800p="margin-left:-10000px;" data-1850p="margin-left:0px;">gratitude,</h1>
+      <h1 data-1900p="margin-right:-10000px;" data-1950p="margin-right:0px;">humility,</h1>
+      <h1 data-2000p="margin-left:-10000px;" data-2050p="margin-left:0px;">and love.</h1>
     </div>
   </div>
 
-  <div data-1800p="transform:translate(0,100%);" data-1900p="transform:translate(0,0%)">
+  <div data-2200p="transform:translate(0,100%);" data-2300p="transform:translate(0,0%)" style="height: 1600px;">
     <div class="contentblock centervert">
-      <div><img style="margin-top: 150px;" src="img/bureau-of-trade-logo-200x200.png" alt="Bureau of Trade" /></div>
+      <div><img style="width:90%" src="img/bureau-shadow-logo.png" alt="Bureau of Trade" /></div>
     </div>
   </div>  
 
