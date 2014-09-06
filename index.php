@@ -8,9 +8,11 @@
   <title>Bureau of Trade</title>
   <link rel="stylesheet" href="sunset.css" type="text/css">
   <link rel="stylesheet" href="fonts.css" type="text/css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 </head>
 
 <body>
+  <div id='loading_wrap' style='position:fixed; height:100%, width:100%; overflow:hidden; top:0; left:0;z-index:99999;background:#ffffff url("http://media.bureauoftrade.com/img/bureau-of-trade-logo-200x200.png") top center no-repeat'></div>
   <div id="briefcase" data-0="transform:translate(0,0%);" data-100p="transform:translate(0,-100%);">
     <div id="nostalgic-overlay" class="contentblock" data-0="opacity:1;" data-100p="opacity:0;" >
       <span id="nostalgic-text"><h1>Be Nostalgic</h1><br /><h1>For the Future</h1></span>
@@ -101,6 +103,13 @@
     }
   });
   </script>
+  <script type='text/javascript'>
+  $(document).ready(function(){
+      $('#loading_wrap').remove();
+    $(window).load(function() {
+    });
+  });
+  </script>  
   
 </body>
 </html>
