@@ -16,11 +16,11 @@
     </div>
   </div>
 
-  <div data-0="transform:translate(0,100%);" data-100p="transform:translate(0,0%)" data-_box-100p="" data-_box-200p="transform:translate(0,-100%)">
+  <div data-0="transform:translate(0,100%);" data-100p="transform:translate(0,0%)" data-_box-150p="" data-_box-200p="transform:translate(0,-100%)">
     <div id="thankyou" class="contentblock centervert">
-      <div id="thankyou_left" data-100p="opacity:0;" data-110p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">It's our time to go. <br />Nothing to miss.</div>
-      <div id="thankyou_right" data-110p="opacity:0;" data-120p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">Nothing to mourn. <br /> Only this to say:</div>
-      <div id="thankyou_center" data-130p="margin-top:-2000px;" data-150p="margin-top:0px;" data-190p="margin-top:0px;opacity:1;" data-500p="margin-top:-2000px;opacity:0;"><h2>Thank <br /> You.</h2></div>
+      <div id="thankyou_left" data-100p="opacity:0;" data-120p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">It's our time to go. <br />Nothing to miss.</div>
+      <div id="thankyou_right" data-120p="opacity:0;" data-130p="opacity:1;" data-180p="margin-top:30px;opacity:1;" data-200p="margin-top:-1000px;opacity:0;">Nothing to mourn. <br /> Only this to say:</div>
+      <div id="thankyou_center" data-140p="margin-top:-2000px;" data-160p="margin-top:0px;" data-190p="margin-top:0px;opacity:1;" data-500p="margin-top:-2000px;opacity:0;"><h2>Thank <br /> You.</h2></div>
     </div>
   </div>
 
