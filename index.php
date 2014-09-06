@@ -8,26 +8,6 @@
   <title>Bureau of Trade</title>
   <link rel="stylesheet" href="sunset.css" type="text/css">
   <link rel="stylesheet" href="fonts.css" type="text/css">
-
-  <script src="//www.google.com/jsapi"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <div id="youtubeNosound"></div>
-  <script type="text/javascript">
-  /*
-    google.load("swfobject", "2.1");
-    function onYouTubePlayerReady(playerId) {
-      bagman_vid = document.getElementById("bagman_vid");
-      bagman_vid.playVideo();
-      bagman_vid.mute();
-    }
-
-    // bagman vid
-    var params = { allowScriptAccess: "always" };
-    var atts = { id: "bagman_vid" };
-    swfobject.embedSWF("http://www.youtube.com/v/byB8g5YEgIw?start=15&end=27&rel=0&enablejsapi=1&playerapiid=bagman_vid&allowFullScreen=true&version=3&loop=1&showinfo=0&autohide=1&hd=1&controls=0&autoplay=1","bagman_vid", "853", "448", "8", null, null, params, atts)
-  */
-  </script>  
 </head>
 
 <body>
